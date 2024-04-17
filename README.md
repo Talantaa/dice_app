@@ -1,4 +1,4 @@
-# sabak_4
+# dice_app
 
 A new Flutter project.
 
